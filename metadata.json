@@ -1,0 +1,6 @@
+{
+  "name": "TANJIT AI",
+  "description": "Futuristic Bengali voice assistant app with voice commands, device controls, background listening, and incoming call assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

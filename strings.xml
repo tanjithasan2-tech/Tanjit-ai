@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TANJIT AI</string>
+    <string name="service_channel_name">TANJIT AI ভয়েস সার্ভিস</string>
+    <string name="service_channel_desc">ব্যাকগ্রাউন্ডে বাংলা ভয়েস কমান্ড ও ইনকামিং কল সহায়তা চালু রাখে।</string>
+    <string name="notification_title">TANJIT AI সক্রিয় আছে</string>
+    <string name="notification_listening">শুনছি… "তানজিত" বলে কমান্ড দিন</string>
+    <string name="notification_standby">ব্যাকগ্রাউন্ড সহায়তা চালু • কথা বলতে ট্যাপ করুন</string>
+</resources>
